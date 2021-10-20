@@ -35,7 +35,7 @@ Este repositório foi feito para facilitar a vida dos CMs aiqfome.
 
 <br />
 
->**[6. Botão para enviar mensagem de novo pedido para WhatsApp do parceiro (manualmente)](https://youtu.be/6dy0ZSPokwA "6. Botão para enviar notificação de novo pedido para WhatsApp do parceiro (manualmente)")**  <br />
+>**[6. Botão para enviar mensagem de novo pedido para o WhatsApp do parceiro (manualmente)](https://youtu.be/6dy0ZSPokwA "6. Botão para enviar notificação de novo pedido para WhatsApp do parceiro (manualmente)")**  <br />
 >`Extensão do Chrome para adicionar um botão do WhatsApp no monitoramento de pedidos do Geraldo. Facilita o envio manual da mensagem para o wpp do parceiro caso não queira usar o Geraldin Bot.` <br />
 >Video: https://youtu.be/6dy0ZSPokwA<br />
 >Link para a extensão: https://git.io/J6Kxj
