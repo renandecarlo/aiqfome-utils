@@ -42,7 +42,7 @@ Este repositório foi feito para facilitar a vida dos CMs aiqfome.
 
 <br />
 
->**[6. Ferramenta para facilitar a criação de imagens de parceiros](https://renandecarlo.github.io/aiqfome-imagens/)**  <br />
+>**[7. Ferramenta para facilitar a criação de imagens de parceiros](https://renandecarlo.github.io/aiqfome-imagens/)**  <br />
 >`Ferramenta para criar diversas imagens de parceiros "estamos no aiq" de uma só vez, a partir de uma logo.` <br />
 >Site: https://renandecarlo.github.io/aiqfome-imagens/<br />
 >GitHub: https://github.com/renandecarlo/aiqfome-imagens
