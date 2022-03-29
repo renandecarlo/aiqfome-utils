@@ -49,4 +49,9 @@ Este repositório foi feito para facilitar a vida dos CMs aiqfome.
 
 <br />
 
+>**8. Automatizaçao de notas fiscais do CM**  <br />
+>`Sistema que permite importar a planilha disponibilizada pelo aiqfome (Geraldo/financeiro/Notas Fiscais), gerando as Notas Fiscais de forma automatizada.` <br />
+>Contato: `Claus (55) 9-9702-6969` ou `Cleiton (46) 9-9924-3891`<br />
+
+<br />
 
